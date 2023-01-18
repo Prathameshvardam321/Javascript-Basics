@@ -5,6 +5,7 @@ var ob1 = {
     name : "Prathmesh",
     state : "Maharshtra"
 }
+//array
 var array = ["kak","Prathmesh","ahaja"]
 
 console.log(a,typeof a);
